@@ -77,3 +77,8 @@ Access the playlist [here](https://www.youtube.com/playlist?list=PLl8VueN-2q18cO
 ## Credits
 
 Written by [seb_icp](https://twitter.com/seb_icp/) with the support from [Code & State](https://twitter.com/codeandstate).
+
+## Memo
+- mops
+  depends on node v18.19.1 
+- etc
