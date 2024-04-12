@@ -81,4 +81,9 @@ Written by [seb_icp](https://twitter.com/seb_icp/) with the support from [Code &
 ## Memo
 - mops
   depends on node v18.19.1 
-- etc
+- Motoko VS Code Extension
+  - Code formatter (`Shift + Alt + F`): format a Motoko file using prettier-plugin-motoko.
+  - Organize imports (`Shift + Alt + O`): group and sort imports at the top of your Motoko file.
+  - Import code action (`Ctrl/Cmd + .` while hovering over an unresolved variable): show quick-fix options.
+  - Go to definition (`F12`): jump to the definition of a local or imported identifier.
+  - IntelliSense (`Ctrl + Space`): view all available autocompletions and code snippets.
