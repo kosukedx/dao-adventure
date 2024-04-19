@@ -81,6 +81,15 @@ Written by [seb_icp](https://twitter.com/seb_icp/) with the support from [Code &
 ## Memo
 - mops
   depends on node v18.19.1 
+  - dfx.json
+    Configuration file for mops.
+    - Deploy to playground.
+      ```bash
+      dfx deploy --playground dfx-json-canisters-info
+
+      # Exsample
+      dfx deploy --playground chapter_1
+      ```
 - Motoko VS Code Extension
   - Code formatter (`Shift + Alt + F`): format a Motoko file using prettier-plugin-motoko.
   - Organize imports (`Shift + Alt + O`): group and sort imports at the top of your Motoko file.
